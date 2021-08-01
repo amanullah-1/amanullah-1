@@ -1,16 +1,42 @@
-### Hi there 👋
 
-<!--
-**amanullah-1/amanullah-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋, I'm Aman Ullah
+========================
+#### A passionate full stack developer from Bangladesh, Living in Malaysia for last 7 years.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently working on several web applications projects.
+- 📄 Know about my experiences [https://www.amanullah.net](https://www.amanullah.net)
+- 💬 Ask me about **php, laravel, javascript, css, html, express, node **
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Connect with me:
+1. Youtube: [https://www.youtube.com/MdAmanUllah1](https://www.youtube.com/MdAmanUllah1)
+2. Twitter: [https://twitter.com/amanullah_bd](https://twitter.com/prvnbist)
+3. Gmail: amanu092@gmail.com
+4. LinkedIn: [https://www.linkedin.com/in/amanullah1](https://www.linkedin.com/in/amanullah1)
+
+
+
+### Languages, Tools, Frameworks:
+**Front End**
+ 1. HTML
+ 2. CSS
+ 3. JavaScript/ES6, Vue
+
+
+**Back End**
+
+ 1. Laravel
+ 2. Express/Node/Node FS
+ 3. REST API
+ 4. MongoDB, MySQL
+
+ 
+**Deployment, Services & Tools**
+
+ 1. Docker
+ 2. AWS EC2, S3
+ 3. Github, Gitlab
+ 4. VS Code, Git, Windows Terminal
+ 5. Slack, Discord
+ 6. MongoDB Compass, pgAdmin, DBeaver, Firebase Console 
+
+
