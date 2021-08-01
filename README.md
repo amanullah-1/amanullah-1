@@ -25,7 +25,7 @@
 **Back End**
 
  1. Laravel
- 2. Express/Node/Node FS
+ 2. Express/Node
  3. REST API
  4. MongoDB, MySQL
 
