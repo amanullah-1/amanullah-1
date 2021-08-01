@@ -9,7 +9,7 @@
 
 #### Connect with me:
 1. Youtube: [https://www.youtube.com/MdAmanUllah1](https://www.youtube.com/MdAmanUllah1)
-2. Twitter: [https://twitter.com/amanullah_bd](https://twitter.com/prvnbist)
+2. Twitter: [https://twitter.com/amanullah_bd](https://twitter.com/amanullah_bd)
 3. Gmail: amanu092@gmail.com
 4. LinkedIn: [https://www.linkedin.com/in/amanullah1](https://www.linkedin.com/in/amanullah1)
 
