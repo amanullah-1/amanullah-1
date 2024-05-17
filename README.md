@@ -1,7 +1,7 @@
 
 ## Hi 👋, I'm Aman Ullah
 ========================
-#### A passionate full stack developer from Bangladesh, Living in Malaysia for last 7 years.
+#### A passionate full stack developer from Bangladesh, Living in Malaysia for last 10 years.
 
 - 🌱 I’m currently working on several web application projects.
 - 💬 Ask me about **php, laravel, javascript, css, html, express, node **
