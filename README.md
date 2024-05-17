@@ -4,7 +4,6 @@
 #### A passionate full stack developer from Bangladesh, Living in Malaysia for last 7 years.
 
 - 🌱 I’m currently working on several web application projects.
-- 📄 Know about my experiences [https://www.amanullah.net](https://www.amanullah.net)
 - 💬 Ask me about **php, laravel, javascript, css, html, express, node **
 
 #### Connect with me:
